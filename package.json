@@ -1,0 +1,15 @@
+{
+  "name": "node-js-tutu",
+  "version": "1.0.0",
+  "description": "Dave gray Node Course",
+  "main": "server.js",
+  "scripts": {
+    "dev":" nodemon --config --watch server.js`",
+    "test": "npm test"
+  },
+  "author": "AbolfazlNR",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
